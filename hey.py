@@ -1,5 +1,5 @@
 import time
 
 while True:
-  print("whyyyyyyyyyyy")
+  print("whyyyyyyyyyyyy")
   time.sleep(10)
