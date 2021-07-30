@@ -1,5 +1,5 @@
 import time
 
 while True:
-  print("why not?")
+  print("why notu?")
   time.sleep(10)
